@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\PTTKTT_BTL2\Huffman\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\DELL\source\repos\PTTKTT_BTL2\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL2\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\DELL\source\repos\PTTKTT_BTL2\Huffman\Huffman\obj\Debug\Huffman.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL2\Huffman\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL2\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL2\Huffman\Huffman\obj\Debug\Huffman.pdb

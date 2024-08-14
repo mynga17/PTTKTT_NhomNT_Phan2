@@ -1,0 +1,7 @@
+D:\BaiTapLon\LuaChonHoatDong\LuaChonHoatDong\bin\Debug\LuaChonHoatDong.exe.config
+D:\BaiTapLon\LuaChonHoatDong\LuaChonHoatDong\bin\Debug\LuaChonHoatDong.exe
+D:\BaiTapLon\LuaChonHoatDong\LuaChonHoatDong\bin\Debug\LuaChonHoatDong.pdb
+D:\BaiTapLon\LuaChonHoatDong\LuaChonHoatDong\obj\Debug\LuaChonHoatDong.csproj.AssemblyReference.cache
+D:\BaiTapLon\LuaChonHoatDong\LuaChonHoatDong\obj\Debug\LuaChonHoatDong.csproj.CoreCompileInputs.cache
+D:\BaiTapLon\LuaChonHoatDong\LuaChonHoatDong\obj\Debug\LuaChonHoatDong.exe
+D:\BaiTapLon\LuaChonHoatDong\LuaChonHoatDong\obj\Debug\LuaChonHoatDong.pdb

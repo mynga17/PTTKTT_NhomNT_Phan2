@@ -1,0 +1,7 @@
+D:\BaiTapLon\Balo\Balo\bin\Debug\Balo.exe.config
+D:\BaiTapLon\Balo\Balo\bin\Debug\Balo.exe
+D:\BaiTapLon\Balo\Balo\bin\Debug\Balo.pdb
+D:\BaiTapLon\Balo\Balo\obj\Debug\Balo.csproj.AssemblyReference.cache
+D:\BaiTapLon\Balo\Balo\obj\Debug\Balo.csproj.CoreCompileInputs.cache
+D:\BaiTapLon\Balo\Balo\obj\Debug\Balo.exe
+D:\BaiTapLon\Balo\Balo\obj\Debug\Balo.pdb

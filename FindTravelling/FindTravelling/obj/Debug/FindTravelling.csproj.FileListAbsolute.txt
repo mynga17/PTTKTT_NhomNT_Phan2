@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\PTTKTT_BTL2\FindTravelling\FindTravelling\bin\Debug\FindTravelling.exe.config
+C:\Users\DELL\source\repos\PTTKTT_BTL2\FindTravelling\FindTravelling\bin\Debug\FindTravelling.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL2\FindTravelling\FindTravelling\bin\Debug\FindTravelling.pdb
+C:\Users\DELL\source\repos\PTTKTT_BTL2\FindTravelling\FindTravelling\obj\Debug\FindTravelling.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL2\FindTravelling\FindTravelling\obj\Debug\FindTravelling.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL2\FindTravelling\FindTravelling\obj\Debug\FindTravelling.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL2\FindTravelling\FindTravelling\obj\Debug\FindTravelling.pdb

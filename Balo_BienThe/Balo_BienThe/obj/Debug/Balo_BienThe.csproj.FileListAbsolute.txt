@@ -1,0 +1,7 @@
+D:\BaiTapLon\Balo_BienThe\Balo_BienThe\bin\Debug\Balo_BienThe.exe.config
+D:\BaiTapLon\Balo_BienThe\Balo_BienThe\bin\Debug\Balo_BienThe.exe
+D:\BaiTapLon\Balo_BienThe\Balo_BienThe\bin\Debug\Balo_BienThe.pdb
+D:\BaiTapLon\Balo_BienThe\Balo_BienThe\obj\Debug\Balo_BienThe.csproj.AssemblyReference.cache
+D:\BaiTapLon\Balo_BienThe\Balo_BienThe\obj\Debug\Balo_BienThe.csproj.CoreCompileInputs.cache
+D:\BaiTapLon\Balo_BienThe\Balo_BienThe\obj\Debug\Balo_BienThe.exe
+D:\BaiTapLon\Balo_BienThe\Balo_BienThe\obj\Debug\Balo_BienThe.pdb
